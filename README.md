@@ -4,4 +4,9 @@ During my master Data Science and Entrepreneurship I was looking at various ways
 
 The data itself is not included. However, the notebooks show how I went about doing my analysis and give a nice overview of what I did. Notebook "3. The Final Product" gives a nice summary of preprocessing the data, doing EDA, modeling and interpreting the results for a business case. 
 
-This was the very first project I did during the pre-master. Looking back, there are some things I could have done differently. For example, I did a simple 10-fold CV to test my models which might lead to overfitting as the folds are chosen randomly. 
+This was the very first project I did during the pre-master. Looking back, there are some things I could have done differently. For example, I did a simple 10-fold CV to test my models which might lead to overfitting as the folds are chosen randomly.
+
+
+[Github](https://github.com/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/MaartenGr/fitbit/blob/master/3.%20The%20Final%20Product.ipynb)
+
+<img src="https://github.com/MaartenGr/fitbit/blob/master/fitbit.png"/>
